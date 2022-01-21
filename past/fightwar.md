@@ -3,4 +3,4 @@ You opened our eyes from a sleep and found out that it just just a dream adventu
 
 Would you like to restart your adventure.
 Yes, click [here](../athome.md) to the start of the adventure!
-I would like to go back to the main page.
+I would like to go back to the [main page](../README.md).
