@@ -4,3 +4,4 @@ After a few years, you secretly find ways to disable the AI by using highly adva
 There appears a door and you went in, and you are back home again.
 ---
 [Victory](../athome.md)
+[main page](../README.md).  
