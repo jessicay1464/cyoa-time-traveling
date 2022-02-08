@@ -1,5 +1,5 @@
 # Time Traveling Adventure
-## Overview
+## Overview  
 In this project, we will be designing an adventure base on our most interested topic, which for us will be the "Time Traveling." We learn how to connect file paths and in this project, we are using our knowledge of GitHub to create this project and also combining all the concepts that we have learned to start this project. For instance, using our ide to edit and pushing it to Git Hub, understanding how to fix merge confilcts, and many more. 
 ---
 Click Here to [Begin](athome.md) your Adventure  
