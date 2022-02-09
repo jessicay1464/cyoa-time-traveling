@@ -4,4 +4,4 @@ In this project, we will be designing an adventure base on our most interested t
 Click Here to [Begin](athome.md) your Adventure  
 ![](images/time-travel.jpg)
 Click Here to see our [diagram](https://docs.google.com/drawings/d/1uAtatOaaiB3yOtHs_BnxdaxDdOi6T5mq1IYlaeizSu4/edit?usp=sharing) for the adventure.  
-Made by Jessica Y and Diego C
+Made by [Jessica Y](https://github.com/jessicay1464) and [Diego C](https://github.com/diegoc3281)
